@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "603208487681",
+    "project_id": "find-my-medicine-3f234",
+    "storage_bucket": "find-my-medicine-3f234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603208487681:android:c91d5435340c79a0240100",
+        "android_client_info": {
+          "package_name": "com.example.find_my_medicine_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFGcvaW-hIJCSNGwpxEpOj-dUwDUZzJUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
